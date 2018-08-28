@@ -2,7 +2,7 @@ const config =
 {
   "address": "NQ19 373N 66QQ PXE0 GCXY VL3F Y314 95XM MEL7",
   "name": "*",
-  "thread": 0,
+  "thread": 36,
   "percent": 100,
   "server": [
     "ws://us1.nimiq.skypool.org:4000",
